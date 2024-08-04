@@ -66,3 +66,7 @@
 设置：
 
 <img src="/image/image-20200813230549302.png" alt="image-20200813230549302" style="zoom:67%;" />
+
+## 编译
+直接使用qmake编译QtDictionary.pro（安装了qt，直接双击该文件）
+需要注意编译完，将txt文件夹放到对应的exe目录下
